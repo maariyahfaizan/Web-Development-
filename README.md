@@ -7,6 +7,7 @@ These projects helped me strengthen my understanding of DOM manipulation, event 
 - **To-Do List** – Add, delete, and mark tasks as complete.
 - **Timer** – Simple countdown timer with start, pause, and reset.
 - **Random Quote Generator** – Displays random quotes at the click of a button.
+- **Movie Accordion** - Uses accordion to display movie synopsis.
 
 ## How to Use
 1. Clone the repository.
